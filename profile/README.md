@@ -29,6 +29,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `speech-to-text`: speech to text in any window; transcribes speech and pastes it at the cursor.
 - `screen-temperature`: screen colour temperature by sunrise and sunset, through gammastep.
 - `download-router`: fuzzy folder picker (fzf in kitty) for browser save and upload dialogs and for Thunar.
+- `cc-workos`: documentation of the desktop setup (Hyprland, kanata, espanso, Obsidian, browser tools), the user manual and the TickTick userscript.
 
 ## Browser extensions
 
