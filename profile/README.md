@@ -8,11 +8,13 @@ A shared collection of tools and automations that make daily work more efficient
 
 In Stoic philosophy it became a definition of happiness. Zeno of Citium, the founder of the Stoic school, described the good life as *euroia biou*, "a smooth flow of life".
 
-The name states the goal of every repository here:
+The name states the goal of the majority of repositories here:
 
 - Work and life flow without friction.
 - Repetitive tasks run on their own.
 - The current state of things is clear at a glance.
+- Less friction and more progress.
+- More comfort, more ease.
 
 # Repositories
 
