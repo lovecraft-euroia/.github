@@ -23,6 +23,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 ## Apatheia server
 
 - `apatheia-momentum`: time-estimate accountability. It compares each task's estimate with the real time spent and shows the running task, its remaining time and the day's streak in the desktop bar.
+- `apatheia-sthenos`: night internet block. On Sunday to Thursday nights it cuts general internet on the phone and the tablet from 22:00 to 04:00 through AdGuard Home DNS rules, while messaging, push notifications and Tailscale keep working.
 
 ## Desktop
 
