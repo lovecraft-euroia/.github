@@ -54,3 +54,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `lang-dragoman`: input bar for writing in a foreign language; an LLM corrects the sentence and the user retypes it.
 - `lang-quick-add-word`: select a word on any device and get a full Anki card for it (audio, translation, grammar, examples), synced to AnkiWeb.
 - `lang-sayso`: speaking practice: proposes conversations from Obsidian notes and helps deliver them in the language being learned.
+
+## Knowledge
+
+- `erratomia`: library of bugs found and fixed, each with its app, symptom, root cause, proof and fix, grouped by the general engineering failure pattern behind it.
