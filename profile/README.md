@@ -33,6 +33,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `dotfiles`: desktop configs from `~/.config` (Hyprland, kanata, espanso, kitty, waybar, rofi, ranger, Thunar), backed up every 2 hours.
 - `kanata`: keyboard remapping configs for the laptop keyboard, Magic Keyboard and MX Master mouse, with hyprkan per-app layers.
 - `claude-skills`: personal Claude Code skills, including the keyboard shortcut catalog.
+- `cc-picker`: checklist window that Claude Code opens to collect ticks, comments and live rounds of new options, inside the kitty tab it runs in.
 
 ## Browser extensions
 
