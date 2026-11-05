@@ -30,6 +30,9 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `screen-temperature`: screen colour temperature by sunrise and sunset, through gammastep.
 - `download-router`: fuzzy folder picker (fzf in kitty) for browser save and upload dialogs and for Thunar.
 - `cc-workos`: documentation of the desktop setup (Hyprland, kanata, espanso, Obsidian, browser tools), the user manual and the TickTick userscript.
+- `dotfiles`: desktop configs from `~/.config` (Hyprland, kanata, espanso, kitty, waybar, rofi, ranger, Thunar), backed up every 2 hours.
+- `kanata`: keyboard remapping configs for the laptop keyboard, Magic Keyboard and MX Master mouse, with hyprkan per-app layers.
+- `claude-skills`: personal Claude Code skills, including the keyboard shortcut catalog.
 
 ## Browser extensions
 
