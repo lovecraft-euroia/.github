@@ -58,6 +58,11 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `lang-quick-add-word`: select a word on any device and get a full Anki card for it (audio, translation, grammar, examples), synced to AnkiWeb.
 - `lang-sayso`: speaking practice: proposes conversations from Obsidian notes and helps deliver them in the language being learned.
 
+## Backup
+
+- `backup-systems-local`: incremental btrfs send of the snapper snapshots of `/` and `/home` to an external drive every 30 minutes, plus a warning when the system disk runs low on btrfs space.
+- `backup-systems-online`: encrypted off-site backup of the whole laptop with restic to BorgBase, in append-only mode.
+
 ## Knowledge
 
 - `erratomia`: library of bugs found and fixed, each with its app, symptom, root cause, proof and fix, grouped by the general engineering failure pattern behind it.
