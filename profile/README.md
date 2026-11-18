@@ -40,6 +40,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 ## Browser extensions
 
 - `browser-web-kb-navigator`: Firefox / LibreWolf extension to move through search results with the keyboard.
+- `browser-wordsmith`: AI assistant for client communication in WhatsApp Web, Fiverr and email: rewrites messages using the chat as context, hides secrets and personal data from the AI, and records tagged conversations for training.
 
 ## Obsidian
 
