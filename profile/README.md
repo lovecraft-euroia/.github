@@ -48,6 +48,7 @@ Each tool has its own repository, named `<family>-<tool>`.
 - `obsidian-sync`: keeps a `_shared` folder identical between two Obsidian vaults.
 - `obsidian-sidebar-outline`: plugin showing the current note's outline in the left sidebar, with fuzzy search.
 - `obsidian-tab-mover`: plugin to move the active tab left or right in its tab bar.
+- `obsidian-portrait-image-size`: plugin that halves the display width Image Converter gives to a pasted image when the image is taller than it is wide.
 
 ## Language learning
 
